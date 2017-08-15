@@ -1,4 +1,4 @@
 # airbnbtrinityresearch
-Code base for research paper on LGBT discrimination on Airbnb in Dublin, Ireland
+Data and code base used for the research paper "LGBT Discrimination in the Sharing Economy: Evidence from a Field Experiment"
 1) Data used in analysis
-2) STATA code used for regressions and analytics
+2) Dissertation.do: STATA code used for regressions and analytics
